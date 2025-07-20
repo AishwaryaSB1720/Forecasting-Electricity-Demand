@@ -68,5 +68,5 @@ plt.legend()
 plt.grid(True)
 plt.tight_layout()
 plt.show()
-
-
+<img width="607" height="222" alt="Error_Metrics" src="https://github.com/user-attachments/assets/820208f4-eb65-4f64-aca4-5b495d86668a" />
+<img width="1133" height="773" alt="Graphical_representation" src="https://github.com/user-attachments/assets/f0a64869-d8c0-4942-b19a-a1cde4ca4202" />
